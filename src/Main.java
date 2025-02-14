@@ -8,7 +8,7 @@ public class Main {
         System.out.printf("보경");
 
 
-         System.out.println("준혁");
+         System.out.println("준혁..");
         System.out.println("Hello and welcome! SDF");
         System.out.println("도효림");
         System.out.printf("보경!");
